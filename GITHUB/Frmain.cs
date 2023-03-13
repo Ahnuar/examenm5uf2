@@ -16,5 +16,20 @@ namespace GITHUB
         {
             InitializeComponent();
         }
+
+        private void bt1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bt2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btmenjar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

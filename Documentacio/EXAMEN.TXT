@@ -32,3 +32,10 @@
   287  git add .
   288  git commit -m "EXERCICIO 3"
   289  git push origin main
+
+##################### EX 4 ~~~~~~
+  298  git add .
+  299  git commit -m "EXERICIO 4"
+  300  git push origin main
+  301  clear
+
