@@ -1,3 +1,4 @@
+####################### EX:1 ############3
   188  cd examen
   191  mkdir examenm5uf2
   192  cd examenm5uf2/
@@ -10,3 +11,13 @@
   220  git status
   227  git remote add origin  https://github.com/Ahnuar/examenm5uf2.git
   228  git push -u origin main
+
+
+#######################EX2###############
+
+  243  nano LICENSE
+  244  git add .
+  246  git comit -m "EJERCICIO 2"
+  247  git commit -m "EJERCICIO 2"
+  248  git status -s
+  249  git push origin main

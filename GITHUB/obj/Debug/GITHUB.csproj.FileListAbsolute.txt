@@ -1,0 +1,10 @@
+C:\Users\Ahnua\OneDrive\Escritorio\EXMANE\GITHUB\GITHUB\bin\Debug\GITHUB.exe.config
+C:\Users\Ahnua\OneDrive\Escritorio\EXMANE\GITHUB\GITHUB\bin\Debug\GITHUB.exe
+C:\Users\Ahnua\OneDrive\Escritorio\EXMANE\GITHUB\GITHUB\bin\Debug\GITHUB.pdb
+C:\Users\Ahnua\OneDrive\Escritorio\EXMANE\GITHUB\GITHUB\obj\Debug\GITHUB.csproj.AssemblyReference.cache
+C:\Users\Ahnua\OneDrive\Escritorio\EXMANE\GITHUB\GITHUB\obj\Debug\GITHUB.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahnua\OneDrive\Escritorio\EXMANE\GITHUB\GITHUB\obj\Debug\GITHUB.Properties.Resources.resources
+C:\Users\Ahnua\OneDrive\Escritorio\EXMANE\GITHUB\GITHUB\obj\Debug\GITHUB.csproj.GenerateResource.cache
+C:\Users\Ahnua\OneDrive\Escritorio\EXMANE\GITHUB\GITHUB\obj\Debug\GITHUB.csproj.CoreCompileInputs.cache
+C:\Users\Ahnua\OneDrive\Escritorio\EXMANE\GITHUB\GITHUB\obj\Debug\GITHUB.exe
+C:\Users\Ahnua\OneDrive\Escritorio\EXMANE\GITHUB\GITHUB\obj\Debug\GITHUB.pdb
