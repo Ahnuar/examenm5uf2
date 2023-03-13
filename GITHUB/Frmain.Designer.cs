@@ -30,6 +30,7 @@
         {
             this.bt1 = new System.Windows.Forms.Button();
             this.bt2 = new System.Windows.Forms.Button();
+            this.btMenjar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // bt1
@@ -52,11 +53,22 @@
             this.bt2.Text = "viatge";
             this.bt2.UseVisualStyleBackColor = true;
             // 
+            // btMenjar
+            // 
+            this.btMenjar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.btMenjar.Location = new System.Drawing.Point(140, 168);
+            this.btMenjar.Name = "btMenjar";
+            this.btMenjar.Size = new System.Drawing.Size(75, 23);
+            this.btMenjar.TabIndex = 2;
+            this.btMenjar.Text = "menjar";
+            this.btMenjar.UseVisualStyleBackColor = false;
+            // 
             // Frmain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btMenjar);
             this.Controls.Add(this.bt2);
             this.Controls.Add(this.bt1);
             this.Name = "Frmain";
@@ -69,6 +81,7 @@
 
         private System.Windows.Forms.Button bt1;
         private System.Windows.Forms.Button bt2;
+        private System.Windows.Forms.Button btMenjar;
     }
 }
 
