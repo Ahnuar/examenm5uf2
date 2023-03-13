@@ -32,3 +32,28 @@
   287  git add .
   288  git commit -m "EXERCICIO 3"
   289  git push origin main
+
+
+###### ex4########
+
+git add.
+git commit -m "ex3" 
+git push origin main
+
+
+
+###### EX ~6
+
+
+
+  305  git branch ampliacio
+  307  git checkout ampliacio
+  323  git add .
+  324  git commit -m "EJERICIO6"
+  325  git push origin ampliacio
+
+
+
+#### ex 7 ####
+
+git merge main
