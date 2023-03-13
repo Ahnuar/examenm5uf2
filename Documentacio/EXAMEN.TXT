@@ -1,0 +1,12 @@
+  188  cd examen
+  191  mkdir examenm5uf2
+  192  cd examenm5uf2/
+  193  git init
+  203  nano README.MD
+  204  nano COPYLEFT.TXT
+  205  mkdir Documentacio
+  206  git add .
+  211  git commit -m "PRIMER EJERCICIO"
+  220  git status
+  227  git remote add origin  https://github.com/Ahnuar/examenm5uf2.git
+  228  git push -u origin main
