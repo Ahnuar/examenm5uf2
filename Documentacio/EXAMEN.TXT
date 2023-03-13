@@ -21,3 +21,14 @@
   247  git commit -m "EJERCICIO 2"
   248  git status -s
   249  git push origin main
+
+
+#####################3 EX 3 #############
+
+
+  267  cp ./* /c/Users/Ahnua/examen/examenm5uf2
+  268  cp -r ./* /c/Users/Ahnua/examen/examenm5uf2
+  274  nano .gitignore
+  287  git add .
+  288  git commit -m "EXERCICIO 3"
+  289  git push origin main
